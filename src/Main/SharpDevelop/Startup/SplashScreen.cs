@@ -42,7 +42,7 @@ namespace ICSharpCode.SharpDevelop.Startup
 		public SplashScreenForm()
 		{
 			const string versionText = "SharpDevelop"
-				+ " " + RevisionClass.FullVersion
+				//+ " " + RevisionClass.FullVersion
 				#if DEBUG
 				+ " (debug)"
 				#endif

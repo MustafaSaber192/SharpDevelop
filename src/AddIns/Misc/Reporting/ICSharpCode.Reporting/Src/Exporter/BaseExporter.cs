@@ -40,7 +40,6 @@ namespace ICSharpCode.Reporting.Exporter
 			
 		}
 
-
 	    protected Collection<ExportPage> Pages {get;private set;}
 	}
 }

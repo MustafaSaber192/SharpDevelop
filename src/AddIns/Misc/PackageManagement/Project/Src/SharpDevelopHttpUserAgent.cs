@@ -17,6 +17,7 @@
 // DEALINGS IN THE SOFTWARE.
 
 using System;
+using ICSharpCode.Core;
 using NuGet;
 
 namespace ICSharpCode.PackageManagement
